@@ -1,10 +1,13 @@
 # Alloy-Analyzer
 online exam and Insurance project
 
-https://en.wikipedia.org/wiki/Alloy_(specification_language)
+https://github.com/AlloyTools/org.alloytools.alloy
 
 https://alloytools.org/
 
+https://en.wikipedia.org/wiki/Alloy_(specification_language)
+
+https://www.youtube.com/watch?v=Sf8iWVvkWQ4&t=154s
 
 about alloy
 
