@@ -1,5 +1,4 @@
 # Alloy-Analyzer
-online exam and Insurance project
 
 https://github.com/AlloyTools/org.alloytools.alloy
 
